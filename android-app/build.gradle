@@ -1,7 +1,0 @@
-// Top-level build file. If Android Studio offers to update the Android
-// Gradle Plugin / Kotlin plugin versions below when you first open this
-// project, accept it -- that's normal and expected as tooling moves on.
-plugins {
-    id 'com.android.application' version '8.5.0' apply false
-    id 'org.jetbrains.kotlin.android' version '1.9.24' apply false
-}
